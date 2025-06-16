@@ -15,8 +15,6 @@ This is one of the four internship projects completed as part of the **CreTech I
 - VS Code
 - Git & GitHub
 
-### 🎥 Demo & Explanation:
-- [LinkedIn Post with Demo Video](#)
 
 ---
 
