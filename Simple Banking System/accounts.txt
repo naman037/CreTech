@@ -1,0 +1,20 @@
+Customer Name: Naman
+Customer ID: CUST001
+Account Number: ACC123
+Current Balance: ₹5500.0
+-----------------------------
+Customer Name: Riya
+Customer ID: CUST002
+Account Number: ACC456
+Current Balance: ₹11000.0
+-----------------------------
+Customer Name: Naman
+Customer ID: CUST001
+Account Number: ACC123
+Current Balance: ₹5500.0
+-----------------------------
+Customer Name: Riya
+Customer ID: CUST002
+Account Number: ACC456
+Current Balance: ₹11000.0
+-----------------------------
